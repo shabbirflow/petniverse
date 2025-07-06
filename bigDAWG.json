@@ -8,14 +8,14 @@
             "icon": "pawPrint"
         },
         {
-            "name": "Services",
-            "href": "#services",
-            "icon": "hotel"
-        },
-        {
             "name": "Dogs",
             "href": "#dogs",
             "icon": "dog"
+        },
+        {
+            "name": "Services",
+            "href": "#services",
+            "icon": "hotel"
         },
         {
             "name": "Contact",

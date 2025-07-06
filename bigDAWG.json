@@ -1,0 +1,136 @@
+{
+    "siteTitle": "🐾🏡PETNIVERSE",
+    "description": "A pet adoption platform connecting pets with loving homes.",
+    "navLinks": [
+        {
+            "name": "Home",
+            "href": "#home",
+            "icon": "pawPrint"
+        },
+        {
+            "name": "Services",
+            "href": "#services",
+            "icon": "hotel"
+        },
+        {
+            "name": "Dogs",
+            "href": "#dogs",
+            "icon": "dog"
+        },
+        {
+            "name": "Contact",
+            "href": "#contact",
+            "icon": "mail"
+        }
+    ],
+    "heroSection": {
+        "title": "Welcome to Petniverse🏡",
+        "subtitle": "Petniverse is a joyful online platform connecting adorable dogs with loving homes. Whether you're looking to adopt, board, or just browse cute pups, Petniverse makes it easy and heartwarming. Join the paw-ty! 🐾",
+        "image1": "/images/golden.png"
+    },
+    "services": {
+        "hero": {
+            "heading": "We Help You Buy Puppies",
+            "subheading": "Puppies for sale in Pune",
+            "paragraphs": [
+                "Happiness comes in four legs, has a furry body and a joyfully wagging tail!",
+                "This clearly indicates that India loves having furry friends as pets. Who wouldn’t want an adorable friend that is a constant companion, acts as a personal therapist, protects you from danger and is loyal without any conditions?",
+                "If you are a fellow dog lover thinking about bringing the most beautiful puppy home, this is just the place for you!"
+            ]
+        },
+        "about": [
+            "PETNIVERSE is a platform for dog lovers where you can find a variety of puppies for sale in Pune. On our website, you will find all major dog breeds and variants of dog puppies for sale. Forget making different Google searches for every different dog breed as we provide you with a centralized platform with all possible options!",
+            "All you need to do is get in touch with us and start preparing a grand welcome for your new guest!"
+        ],
+        "features": [
+            {
+                "title": "Post Sell - Support",
+                "description": "Quick turnaround for queries"
+            },
+            {
+                "title": "We Believe",
+                "description": "Client Satisfaction"
+            },
+            {
+                "title": "Buy Puppies Here",
+                "description": "We are here for you"
+            }
+        ]
+    },
+    "dogs": [
+        {
+            "title": "Doberman",
+            "description": "We have the most adorable Doberman puppies for sale in Pune. You can take them home if you are willing to pet a dog that is equal parts playful, sweet and protective.",
+            "image": "/images/doberman.png",
+            "link": "/doberman-puppies"
+        },
+        {
+            "title": "German Shepherd",
+            "description": "Everybody loves a German Shepherd! On purchasing our German Shepherd puppies for sale in Pune, you get a beautiful beast that is athletic, playful, sweet and extremely loyal to its parent.",
+            "image": "/images/shepherd.png",
+            "link": "/german-shepherd-puppies"
+        },
+        {
+            "title": "Labrador Retriever",
+            "description": "Labradors are the most popular dog breed in India for a reason. Gentle, obedient, and fantastic with children, our Labrador puppies for sale in Pune are perfect for first-time pet parents.",
+            "image": "/images/labrador.png",
+            "link": "/labrador-puppies"
+        },
+        {
+            "title": "Pomeranian",
+            "description": "Small in size but big in personality, our Pomeranian puppies for sale in Pune are fluffy little firecrackers. Perfect for apartment living and guaranteed to make you smile every day.",
+            "image": "/images/pomeranian.png",
+            "link": "/pomeranian-puppies"
+        },
+        {
+            "title": "Shih Tzu",
+            "description": "Looking for a lap dog with royal vibes? Our Shih Tzu puppies for sale in Pune bring elegance, affection, and a whole lot of cuddles to your home. Grooming required, cuteness guaranteed.",
+            "image": "/images/shihtzu.png",
+            "link": "/shih-tzu-puppies"
+        },
+        {
+            "title": "Beagle",
+            "description": "If you are looking for a friendly and playful puppy that gel well with your family, you can look for the Beagle puppies for sale in Pune on our website.",
+            "image": "/images/beagle.png",
+            "link": "/beagle-puppies"
+        }
+    ],
+    "contact": {
+        "email": {
+            "title": "Email",
+            "subtitle": "Reach out to us anytime",
+            "linkText": "petniverse@email.com",
+            "link": "mailto:petniverse@email.com"
+        },
+        "phone": {
+            "title": "Call Us",
+            "subtitle": "We'd love to talk to you",
+            "linkText": "+91 98765 43210",
+            "link": "tel:+919876543210"
+        },
+        "location": {
+            "title": "Visit Us",
+            "subtitle": "Pune, Maharashtra",
+            "linkText": "Open in Maps →",
+            "link": "https://www.google.com/maps?q=Pune,Maharashtra"
+        },
+        "facebookURL": "https://facebook.com",
+        "instaURL": "https://instagram.com",
+        "youtubeURL": "https://youtube.com",
+        "whatsappNumber": "919876543210"
+    },
+    "faqs": [
+        {
+            "question": "Do you offer grooming services?",
+            "answer": "Yes, grooming services are part of our premium care plans. Check the Services section for details."
+        },
+        {
+            "question": "What are your operating hours?",
+            "answer": "We’re open Monday to Saturday from 9 AM to 7 PM. Sundays are paws-off (we’re closed)."
+        },
+        {
+            "question": "Can I book a pet boarding slot online?",
+            "answer": "Absolutely! Just head to our Boarding section and click on “Book Now.” We’ll handle the rest."
+        }
+    ]
+}
